@@ -2,6 +2,6 @@ body{
     background-image: url('stars_texture.png');
     display: grid;
     place-items: center;
-    color: aliceblue;
+    color: indigo;
     text-shadow: 0 0 3px white;
 }
